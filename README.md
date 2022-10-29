@@ -1,6 +1,6 @@
 &copy; 2021-2022 Andrei Napruiu (napruiuandrei@gmail.com)
 
-# Third PC Homework - Simple Image Editor
+# CLI Image Editor
 
 > **Mentions before start:**
 > + Main code is found inside ***image_editor.c*** file and all the other functions in the rest of .c files.
