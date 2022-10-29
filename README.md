@@ -309,8 +309,6 @@ student@pc:~$ cs/cs.sh <file>
 
 # Sources:
 
-https://ocw.cs.pub.ro/courses/programare/laboratoare/lab12
-
 https://www.educative.io/edpresso/how-to-convert-a-string-to-an-integer-in-c
 
 https://en.wikipedia.org/wiki/Clamping_(graphics)
